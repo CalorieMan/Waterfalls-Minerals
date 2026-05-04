@@ -1,0 +1,5 @@
+streamlit>=1.31,<2
+folium>=0.15,<0.21
+streamlit-folium>=0.18,<0.28
+requests>=2.28,<3
+gpxpy>=1.5,<2
